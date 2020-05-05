@@ -1,4 +1,4 @@
-DeepBeat<br/>Multi-task deep learning for cardiac rhythm detection in wearable devices
+DeepBeat: Multi-task deep learning for cardiac rhythm detection in wearable devices
 ------------------------------------------------------------------------------
 
 DeepBeat is a deep learning model for
